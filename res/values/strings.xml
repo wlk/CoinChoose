@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Coin Choose</string>
+    <string name="action_settings">Settings</string>
+    <string name="change_coin">Change Coin</string>
+    <string name="ltc_logo">LTC Logo</string>
+    <string name="btc_logo">BTC Logo</string>
+    <string name="please_wait">Please wait for data ...</string>
+
+</resources>
